@@ -120,3 +120,8 @@ The factory might be async and is able to inject dependencies through the `injec
 
 ## Keywords
 bugsnagJs, nestJs, logger
+
+
+# Donate
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.paypal.com/donate/?hosted_button_id=FSXZJUZCHWG5N)
+
